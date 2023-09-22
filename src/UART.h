@@ -1,4 +1,4 @@
-/* U A R R T   D R I V E R   F O R   ATMEGA328P
+/* U A R T   D R I V E R   F O R   ATMEGA328P
  * 
  * Configured as follows:
  *      9600 BAUD (F_CPU=16MHz)
